@@ -1,3 +1,4 @@
 #pragma once
-void Problem1();
-void Problem2();
+int Problem1();
+int Problem2();
+double Problem3();
