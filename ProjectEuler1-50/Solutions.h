@@ -8,4 +8,5 @@ int Problem6();
 int Problem7();
 double Problem8();
 int Problem9();
+double Problem10();
 bool isPrime(long long num);
