@@ -15,4 +15,6 @@ double Problem13();
 int Problem14();
 float Problem15();
 int Problem16();
+int Problem17();
+
 bool isPrime(long long num);
